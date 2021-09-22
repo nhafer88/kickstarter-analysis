@@ -36,7 +36,7 @@ In the second area of analysis, this project compared the funding goals and outc
   * Starting up a theater campaign with funding goals at less than $10000 would be the more successful route to take based on this analysis. 
 
 ### Limitations
-* One limitatation in this analysis is that there is no specific data in the data set that reflects how successful a theater campaign would be in a particular state in United States. 
+* One limitation in this analysis is that there is no specific data in the data set that reflects how successful a theater campaign would be in a particular state in United States. 
 * One limitation to this analysis is the data may not reflect current socioeconomic enviornment relating to COVID-19 and the Delta variant, which may hinder outcomes for projects goals and launch date.
 
 ### Further Analysis
