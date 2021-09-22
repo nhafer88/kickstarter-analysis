@@ -37,7 +37,7 @@ In the second area of analysis, this project compared the funding goals and outc
 
 ### Limitations
 * One limitation in this analysis is that there is no specific data in the data set that reflects how successful a theater campaign would be in a particular state in United States. 
-* One limitation to this analysis is the data may not reflect current socioeconomic enviornment relating to COVID-19 and the Delta variant, which may hinder outcomes for projects goals and launch date.
+* Another limitation to this analysis is the data may not reflect current socioeconomic enviornment relating to COVID-19 and the Delta variant, which may hinder outcomes for projects goals and launch date.
 
 ### Further Analysis
 * This project could include specific plays that had successful outcomes and highest number of backers, displayed with a bar chart. 
