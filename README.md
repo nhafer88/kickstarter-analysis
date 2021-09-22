@@ -32,8 +32,13 @@ In the second area of analysis, this project compared the funding goals and outc
   * The holiday season may be a factor for less successful campaigns.
 * Outcomes based on funding goals
   * The most successful campaigns had funding goals set at less than $10000. 
-  * Funding goals that were set over $45000, werek likely to be failed campaigns.
+  * Funding goals that were set over $45000, were likely to be failed campaigns.
   * Starting up a theater campaign with funding goals at less than $10000 would be the more successful route to take based on this analysis. 
 
-### Further Analysis
+### Limitations
+* One limitatation in this analysis is that there is no specific data in the data set that reflects how successful a theater campaign would be in a particular state in United States. 
 * One limitation to this analysis is the data may not reflect current socioeconomic enviornment relating to COVID-19 and the Delta variant, which may hinder outcomes for projects goals and launch date.
+
+### Further Analysis
+* This project could include specific plays that had successful outcomes and highest number of backers, displayed with a bar chart. 
+* Using the two areas of analysis in this project, particular countries could be looked at, and displayed with a line graph.
